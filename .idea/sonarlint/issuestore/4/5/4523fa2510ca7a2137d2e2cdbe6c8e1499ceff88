@@ -1,0 +1,11 @@
+
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ωέ΄°8Όσί‰-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώςύ8Όσί‰-
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(Υ®»ο8Όσί‰-
+osquid:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(Μ±8Όσί‰-
+osquid:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(Υ®»ο8Όσί‰-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Μ±8Όσί‰-
+osquid:S3457#"Q%n should be used in place of \n to produce the platform-specific line separator.(Ωέ΄°8Όσί‰-

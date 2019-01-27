@@ -1,0 +1,5 @@
+
+bsquid:S3358"DExtract this nested ternary operation into an independent statement.(¬ÌÅ8Ù¥ö‰‰-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(±‚·ëøÿÿÿÿ8Ù¥ö‰‰-
+psquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´í8Ù¥ö‰‰-
