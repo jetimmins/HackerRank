@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ThirtyDaysOfCode.iml" filepath="$PROJECT_DIR$/ThirtyDaysOfCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TenDaysOfStats/TenDaysOfStats.iml" filepath="$PROJECT_DIR$/TenDaysOfStats/TenDaysOfStats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirtyDaysOfCode/ThirtyDaysOfCode.iml" filepath="$PROJECT_DIR$/ThirtyDaysOfCode/ThirtyDaysOfCode.iml" />
     </modules>
   </component>
 </project>

@@ -1,12 +1,0 @@
-
-Lsquid:S1481".Remove this unused "firstName" local variable.(Û™ƒù8Üè¼Š‰-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¸Þ8Üè¼Š‰-
-Tsquid:S1854
-"6Remove this useless assignment to local variable "id".(žÈ´Á8Üè¼Š‰-
-Psquid:S1481	"-Remove this unused "lastName" local variable.(Ì‘ÚÄûÿÿÿÿ8Üè¼Š‰-
-Isquid:S1172""&Remove these unused method parameters.(“¹µþùÿÿÿÿ8»¾¼Š‰-
-[squid:S1854"=Remove this useless assignment to local variable "firstName".(Û™ƒù8Üè¼Š‰-
-Esquid:S1481
-"'Remove this unused "id" local variable.(žÈ´Á8Üè¼Š‰-
-nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ÞËúçúÿÿÿÿ8»¾¼Š‰-
-_squid:S1854	"<Remove this useless assignment to local variable "lastName".(Ì‘ÚÄûÿÿÿÿ8Üè¼Š‰-
